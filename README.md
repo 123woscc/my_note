@@ -1,16 +1,29 @@
-# ä¸ªäººç¬”è®°
-
-ç¬”è®°å¤‡å¿˜å½•
-
-1. @classmethod VS @staticmethod 
-2. Gitå‘½ä»¤
-3. `__init__` `__new__` `__call__` `__getattr__` `__getattribute__`çš„åŒºåˆ«å’Œä½œç”¨
-4. osæ¨¡å—
-5. æ ‡å‡†åº“â€”â€”collections
-6. æ ‡å‡†åº“â€”â€”functools
-7. æ ‡å‡†åº“â€”â€”itertools
-8. æ­£åˆ™è¡¨è¾¾å¼â€”â€”reæ¨¡å—
-9. æ—¥å¿—æ‰“å°â€”â€”loggingæ¨¡å—
-10. Pythonå¼‚å¸¸ç¼–ç å¤„ç†
-11. BeautifulSoupæ¨¡å—
-
+#Note List
+1.  [@classmethod VS @staticmethod ](https://github.com/123woscc/my_note/blob/master/@classmethod VS @staticmethod )
+2.  [axios](https://github.com/123woscc/my_note/blob/master/axios)
+3.  [BeautifulSoup](https://github.com/123woscc/my_note/blob/master/BeautifulSoup)
+4.  [Flask Script](https://github.com/123woscc/my_note/blob/master/Flask Script)
+5.  [Flask+Vue](https://github.com/123woscc/my_note/blob/master/Flask+Vue)
+6.  [Flask-Restful](https://github.com/123woscc/my_note/blob/master/Flask-Restful)
+7.  [git_command](https://github.com/123woscc/my_note/blob/master/git_command)
+8.  [Linux»ù´¡](https://github.com/123woscc/my_note/blob/master/Linux»ù´¡)
+9.  [Linux°²×°°ü¼ÇÂ¼](https://github.com/123woscc/my_note/blob/master/Linux°²×°°ü¼ÇÂ¼)
+10.  [Linux¼¼ÇÉ](https://github.com/123woscc/my_note/blob/master/Linux¼¼ÇÉ)
+11.  [moment.js](https://github.com/123woscc/my_note/blob/master/moment.js)
+12.  [osÄ£¿é](https://github.com/123woscc/my_note/blob/master/osÄ£¿é)
+13.  [PyQt5Í¼Æ¬ÉèÖÃ](https://github.com/123woscc/my_note/blob/master/PyQt5Í¼Æ¬ÉèÖÃ)
+14.  [Python²¢·¢±à³Ì](https://github.com/123woscc/my_note/blob/master/Python²¢·¢±à³Ì)
+15.  [Python¿â¡ª¡ªtqdmºÍretry](https://github.com/123woscc/my_note/blob/master/Python¿â¡ª¡ªtqdmºÍretry)
+16.  [PythonÒì³£±àÂë´¦Àí](https://github.com/123woscc/my_note/blob/master/PythonÒì³£±àÂë´¦Àí)
+17.  [README](https://github.com/123woscc/my_note/blob/master/README)
+18.  [superµÄ×÷ÓÃ](https://github.com/123woscc/my_note/blob/master/superµÄ×÷ÓÃ)
+19.  [uWsgiµÄÅäÖÃ](https://github.com/123woscc/my_note/blob/master/uWsgiµÄÅäÖÃ)
+20.  [Vim»ù´¡](https://github.com/123woscc/my_note/blob/master/Vim»ù´¡)
+21.  [`__init__ , __new__,__call__` ,¶¼ÊÇÔÚÊ²Ã´Ê±ºò±»´¥·¢?`__getattr__`ºÍ`__getattribute__`Ó¦ÓÃÓĞÊ²Ã´²»Í¬?](https://github.com/123woscc/my_note/blob/master/__init__)
+22.  [ÈÎÎñ¹ÜÀísupervisor](https://github.com/123woscc/my_note/blob/master/ÈÎÎñ¹ÜÀísupervisor)
+23.  [ÈÕÖ¾´òÓ¡¡ª¡ªloggingÄ£¿é](https://github.com/123woscc/my_note/blob/master/ÈÕÖ¾´òÓ¡¡ª¡ªloggingÄ£¿é)
+24.  [±ê×¼¿â¡ª¡ªcollections](https://github.com/123woscc/my_note/blob/master/±ê×¼¿â¡ª¡ªcollections)
+25.  [±ê×¼¿â¡ª¡ªfunctools](https://github.com/123woscc/my_note/blob/master/±ê×¼¿â¡ª¡ªfunctools)
+26.  [±ê×¼¿â¡ª¡ªitertools](https://github.com/123woscc/my_note/blob/master/±ê×¼¿â¡ª¡ªitertools)
+27.  [ÕıÔò±í´ïÊ½¡ª¡ªreÄ£¿é](https://github.com/123woscc/my_note/blob/master/ÕıÔò±í´ïÊ½¡ª¡ªreÄ£¿é)
+28.  [´ÊÔÆ](https://github.com/123woscc/my_note/blob/master/´ÊÔÆ)

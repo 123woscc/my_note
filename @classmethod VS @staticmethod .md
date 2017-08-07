@@ -65,7 +65,7 @@ Class Date:
     return Date(3000, month, day)
 
 now_year = Date(2017, 7, 20)  # 成功创建now_year
-future_year = Date.millenium(1, 1) 	# 成功创建future_year
+future_year = Date.future(1, 1) 	# 成功创建future_year
 
 
 now_year.display()# "2017-7-20"
@@ -115,7 +115,6 @@ datetime2.display() # "1990-10-10-00:00:00PM"
 
 isinstance(datetime1, DateTime) # True
 isinstance(datetime2, DateTime) # True
-
 
 ```
 

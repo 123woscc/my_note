@@ -85,7 +85,7 @@ print(foo.count)  # 10
 
 
 
-### `__getattr`
+### `__getattr__`
 
 `getattr`会在没有查找到相应实例属性时被调用
 
